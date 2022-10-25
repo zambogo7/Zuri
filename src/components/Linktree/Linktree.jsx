@@ -23,7 +23,7 @@ function Linktree() {
      </div>
      <div>
      <button id="python_books" type="button" className="python_books btn btn-secondary btn-lg btn-block">
-        <a className='python-books-link' href=" https://books.zuri.team/python-for-beginners?ref_id=<yourslackname">Python Zuri Books</a>
+        <a className='python-books-link' href=" https://books.zuri.team/python-for-beginners?ref_id=<Zedekiah Ambogo">Python Zuri Books</a>
       </button>
      </div>
      <div>

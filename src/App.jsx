@@ -13,7 +13,6 @@ import Linktree from './components/Linktree/Linktree'
 function App() {
   return (
     <div>
-    <img src="profile.jpg" alt="test">
   <Home/>
   <Linktree/>
     </div>

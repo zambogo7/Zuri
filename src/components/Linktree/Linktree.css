@@ -1,0 +1,22 @@
+.twitter, .btn_zuri, .books, .python_books, .pitch, .book_design{
+    width: 90%;
+    margin: 5px 0 5px 0;
+    background-color: #EAECF0;
+   
+}
+.twitter{
+    background-color: #1DA1F2;
+    color: white;
+}
+
+.zuri-free-link, .skill-link, .python-books-link, .books-link, .zuri-team-link{
+    color: black;
+
+}
+.twitter-link:hover, .zuri-team-link:hover, .books-link:hover, .python-books-link:hover, .skill-link:hover, .zuri-free-link:hover{
+    color: white;
+}
+.slack{
+    padding: 4px;
+
+}
